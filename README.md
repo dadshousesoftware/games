@@ -1,2 +1,2 @@
 # games
-we broke our own rules we made games
+A collection of games (which we were not supposed to make)
